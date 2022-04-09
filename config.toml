@@ -1,4 +1,4 @@
-baseURL = 'https://willcodeforskis.com/'
+baseURL = 'https://aprescode.com/'
 languageCode = 'en-us'
-title = 'Will Code For Skis'
+title = 'Apres Code'
 theme = ["ananke"]
